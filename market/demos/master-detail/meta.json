@@ -1,0 +1,21 @@
+{
+	"id": "master-detail-demo",
+	"name": "Master Detail Demo",
+	"description": "A utility dialog to show navigation scenarios in HTML dialogs implemented with Ivy and Primefaces.",
+	"type": "solution",
+	"platformReview": "4.5",
+	"sourceUrl": "https://github.com/axonivy-market/master-detail",
+	"statusBadgeUrl": "https://github.com/axonivy-market/msater-detail/actions/workflows/ci.yml/badge.svg",
+	"language": "English",
+	"industry": "Cross-Industry",
+	"tags": ["demo"],
+	"validate": true,
+	"mavenArtifacts": [
+		{
+			"name": "Master Detail Demo Product",
+			"groupId": "com.axonivy.demo.masterdetail",
+			"artifactId": "master-detail-product",
+			"type": "zip"
+		}
+	]	
+}
